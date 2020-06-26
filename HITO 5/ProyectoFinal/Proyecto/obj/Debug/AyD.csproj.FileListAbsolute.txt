@@ -1,0 +1,49 @@
+C:\Users\ASUS\Desktop\AyD\bin\Debug\AyD.exe.config
+C:\Users\ASUS\Desktop\AyD\bin\Debug\AyD.exe
+C:\Users\ASUS\Desktop\AyD\bin\Debug\AyD.pdb
+C:\Users\ASUS\Desktop\AyD\obj\Debug\AyD.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\AyD\obj\Debug\AyD.Form1.resources
+C:\Users\ASUS\Desktop\AyD\obj\Debug\AyD.Form2.resources
+C:\Users\ASUS\Desktop\AyD\obj\Debug\AyD.Properties.Resources.resources
+C:\Users\ASUS\Desktop\AyD\obj\Debug\AyD.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\AyD\obj\Debug\AyD.exe
+C:\Users\ASUS\Desktop\AyD\obj\Debug\AyD.pdb
+C:\Users\Giga Servy\Desktop\AyD\bin\Debug\AyD.exe.config
+C:\Users\Giga Servy\Desktop\AyD\obj\Debug\AyD.exe
+C:\Users\Giga Servy\Desktop\AyD\obj\Debug\AyD.pdb
+C:\Users\Giga Servy\Desktop\AyD\bin\Debug\AyD.exe
+C:\Users\Giga Servy\Desktop\AyD\bin\Debug\AyD.pdb
+C:\Users\Giga Servy\Desktop\AyD\obj\Debug\AyD.csprojResolveAssemblyReference.cache
+C:\Users\Giga Servy\Desktop\AyD\obj\Debug\AyD.Registro.resources
+C:\Users\Giga Servy\Desktop\AyD\obj\Debug\AyD.FormDirectorAlumno.resources
+C:\Users\Giga Servy\Desktop\AyD\obj\Debug\AyD.FormPadres.resources
+C:\Users\Giga Servy\Desktop\AyD\obj\Debug\AyD.FormAlumnoMaestro.resources
+C:\Users\Giga Servy\Desktop\AyD\obj\Debug\AyD.Properties.Resources.resources
+C:\Users\Giga Servy\Desktop\AyD\obj\Debug\AyD.csproj.GenerateResource.Cache
+C:\Users\Giga Servy\Desktop\AyD\obj\Debug\AyD.Login.resources
+C:\Users\Giga Servy\Desktop\mis_cosas\AyD\bin\Debug\AyD.exe.config
+C:\Users\Giga Servy\Desktop\mis_cosas\AyD\obj\Debug\AyD.exe
+C:\Users\Giga Servy\Desktop\mis_cosas\AyD\obj\Debug\AyD.pdb
+C:\Users\Giga Servy\Desktop\mis_cosas\AyD\bin\Debug\AyD.exe
+C:\Users\Giga Servy\Desktop\mis_cosas\AyD\bin\Debug\AyD.pdb
+C:\Users\Giga Servy\Desktop\mis_cosas\AyD\obj\Debug\AyD.csprojResolveAssemblyReference.cache
+C:\Users\Giga Servy\Desktop\mis_cosas\AyD\obj\Debug\AyD.Registro.resources
+C:\Users\Giga Servy\Desktop\mis_cosas\AyD\obj\Debug\AyD.Login.resources
+C:\Users\Giga Servy\Desktop\mis_cosas\AyD\obj\Debug\AyD.FormPadres.resources
+C:\Users\Giga Servy\Desktop\mis_cosas\AyD\obj\Debug\AyD.Properties.Resources.resources
+C:\Users\Giga Servy\Desktop\mis_cosas\AyD\obj\Debug\AyD.csproj.GenerateResource.Cache
+C:\Users\Giga Servy\Desktop\mis_cosas\AyD\obj\Debug\AyD.FormLogin.resources
+C:\Users\Giga Servy\Desktop\mis_cosas\AyD\obj\Debug\AyD.Diseño.DIRECTOR.resources
+C:\Users\Giga Servy\Desktop\mis_cosas\AyD\obj\Debug\AyD.Diseño.Registrar_estudiante.resources
+C:\Users\Giga Servy\Desktop\mis_cosas\AyD\obj\Debug\AyD.Diseño.RegistrarProfesor.resources
+C:\Users\Giga Servy\Desktop\mis_cosas\AyD\obj\Debug\AyD.Diseño.CrearHorario.resources
+C:\Users\Giga Servy\Desktop\mis_cosas\AyD\obj\Debug\AyD.Diseño.Buscar_Profesor.resources
+C:\Users\Giga Servy\Desktop\mis_cosas\AyD\obj\Debug\AyD.Diseño.Control_de_Asistencia.resources
+C:\Users\Giga Servy\Desktop\mis_cosas\AyD\obj\Debug\AyD.Diseño.Buscar_Estudiantes.resources
+C:\Users\Giga Servy\Desktop\mis_cosas\AyD\obj\Debug\AyD.Diseño.PROFESOR.resources
+C:\Users\Giga Servy\Desktop\mis_cosas\AyD\obj\Debug\AyD.Diseño.Publicar_Tarea.resources
+C:\Users\Giga Servy\Desktop\mis_cosas\AyD\obj\Debug\AyD.Diseño.Agregar_Notas.resources
+C:\Users\Giga Servy\Desktop\mis_cosas\AyD\obj\Debug\AyD.Diseño.Asistencia.resources
+C:\Users\Giga Servy\Desktop\mis_cosas\AyD\obj\Debug\AyD.Diseño.PADRE.resources
+C:\Users\Giga Servy\Desktop\mis_cosas\AyD\obj\Debug\AyD.Diseño.Tareas.resources
+C:\Users\Giga Servy\Desktop\mis_cosas\AyD\obj\Debug\AyD.Diseño.ver_notas.resources
